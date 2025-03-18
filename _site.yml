@@ -2,7 +2,7 @@ name: "psydistill"
 title: "My Website"
 description: |
   My Website
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   right:
     - text: "Home"
