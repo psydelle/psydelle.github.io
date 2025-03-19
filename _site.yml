@@ -1,7 +1,7 @@
 name: "psydistill"
 title: "Sydelle de Souza"
 description: |
-  My Website
+  mfeo
 output_dir: "docs"
 navbar:
   right:
@@ -9,10 +9,7 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Tobi"              # add
-      href: syd.html           # add
+    - text: "My Work"
+      href: work.html
 output: distill::distill_article
-
-# head:
-#   - <link rel="stylesheet" type="text/css" href="theme.css">
 theme: theme.css

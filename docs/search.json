@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-03-19T09:17:14+01:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Tobi Burns",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Sydelle de Souza\r\n          \r\n          \r\n          Home\r\n          About\r\n          My Work\r\n          â˜°\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Tobi Burns\r\n          \r\n          \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference.\r\n            \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2025-03-19T09:17:16+01:00"
+    },
+    {
+      "path": "work.html",
+      "title": "Hi! I'm Syd",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\nCurrent Positions\r\nDoctoral Researcher in Natural Language Processing\r\nSchool of Informatics, University of Edinburgh (2022-2026)\r\n- 4-year PhD with Integrated Study funded by the UKRI Centre for Doctoral Training in NLP\r\n- Supervisors: Professor Jennifer Culbertson & Dr.Â Francis Mollica\r\n- Affiliations: Institute for Language, Cognition and Computation, Centre for Language Evolution\r\nResearcher, Integrated Member (without PhD)\r\nCentre for Linguistics, University of Lisbon (2020-present)\r\nEducation\r\nMSc Psychological Research (Distinction)\r\nUniversity of Edinburgh (2021-2022)\r\nSchool of Philosophy, Psychology & Language Sciences\r\n- Area of Specialization: Psychology of Language\r\n- Supervisors: Professor Jennifer Culbertson & Dr.Â Francis Mollica\r\nMSc Applied Linguistics & Second Language Acquisition (Distinction)\r\nUniversity of Oxford (2020-2021)\r\nDepartment of Education\r\n- Supervisor: Dr.Â Hamish Chalmers\r\n- Certificate in Teaching English as a Foreign Language (TEFL)\r\nBA Language Sciences (17/20)\r\nUniversity of Lisbon (2017-2020)\r\nDepartment of General & Romance Linguistics\r\n- Areas of Specialization: Theoretical & Portuguese Linguistics\r\nErasmus+ Exchange Programme\r\nSaarland University (2019-2020)\r\nDepartment of Computational Linguistics\r\nPublications\r\n(To be added)\r\nGrants\r\n(To be added)\r\nTeaching Experience\r\n(To be added)\r\nService and Outreach\r\n(To be added)b-pages\r\n\r\n```{.r .distill-force-highlighting-css}\r\n\r\n\r\n",
+      "last_modified": "2025-03-19T09:17:19+01:00"
+    }
+  ],
+  "collections": []
+}
