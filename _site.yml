@@ -1,5 +1,5 @@
 name: "psydistill"
-title: "My Website"
+title: "Sydelle de Souza"
 description: |
   My Website
 output_dir: "docs"
@@ -9,4 +9,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Tobi"              # add
+      href: syd.html           # add
 output: distill::distill_article
+
+# head:
+#   - <link rel="stylesheet" type="text/css" href="theme.css">
+theme: theme.css
