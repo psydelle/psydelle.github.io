@@ -1,7 +1,8 @@
 ---
-title: "Hi! I'm Syd"
+title: "Research"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Work in Progress
+bibliography: bib.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -11,57 +12,3 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-
-
-# Current Positions
-
-### Doctoral Researcher in Natural Language Processing  
-**School of Informatics, University of Edinburgh** *(2022-2026)*  
-- 4-year PhD with Integrated Study funded by the [UKRI Centre for Doctoral Training in NLP](https://web.inf.ed.ac.uk/cdt/natural-language-processing/people/cdt-nlp-student-cohorts/cohort-2022)  
-- Supervisors: Professor Jennifer Culbertson & Dr. Francis Mollica  
-- Affiliations: [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), [Centre for Language Evolution](https://cle.ppls.ed.ac.uk/index.php/who-works-here/)  
-
-### Researcher, Integrated Member (without PhD)  
-**Centre for Linguistics, University of Lisbon** *(2020-present)*  
-
-# Education
-
-### MSc Psychological Research *(Distinction)*  
-**University of Edinburgh (2021-2022)**  
-School of Philosophy, Psychology & Language Sciences  
-- Area of Specialization: Psychology of Language  
-- Supervisors: Professor Jennifer Culbertson & Dr. Francis Mollica  
-
-### MSc Applied Linguistics & Second Language Acquisition *(Distinction)*  
-**University of Oxford (2020-2021)**  
-Department of Education  
-- Supervisor: Dr. Hamish Chalmers  
-- Certificate in Teaching English as a Foreign Language (TEFL)  
-
-### BA Language Sciences *(17/20)*  
-**University of Lisbon (2017-2020)**  
-Department of General & Romance Linguistics  
-- Areas of Specialization: Theoretical & Portuguese Linguistics  
-
-#### Erasmus+ Exchange Programme  
-**Saarland University (2019-2020)**  
-Department of Computational Linguistics  
-
-# Publications
-
-(To be added)
-
-# Grants
-
-(To be added)
-
-# Teaching Experience
-
-(To be added)
-
-# Service and Outreach
-
-(To be added)b-pages
-
-```
-

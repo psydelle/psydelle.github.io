@@ -1,20 +1,20 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Hi! I'm Syd"
+image: "/static/square_syd.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
-  - label: Email
-    url: "mailto:email@email.com"
+  - label: LinkedIn 
+    url: "https://linkedin.com/in/psydelle"
+  # - label: Twitter
+  #   url: "https://twitter.com/"
+  # - label: GitHub
+  #   url: "https://github.com/"
+ # - label: Email
+ #   url: "mailto:email@email.com"
 output:
   postcards::jolla
 site: distill::distill_website # needs to be on index.rmd
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a computational psycholinguist interested in compositionality and the boundaries at which it breaks down in human language. Supervised by Professor Jennifer Culbertson (Centre for Language Evolution, University of Edinburgh) and Dr Frank Mollica (University of Melbourne), my doctoral research combines computational modelling, behavioural and machine learning experiments to investigate why people have such a hard time acquiring and processing semi-compositional verb-argument structures.
+
+I also work with Dr Alex Doumas (PPLS, University of Edinburgh) and Dr Martha Lewis (ILLC, University of Amsterdam) on a project exploring systematicity à la Fodor and Pylyshyn (or lack thereof)  in deep neural networks.
