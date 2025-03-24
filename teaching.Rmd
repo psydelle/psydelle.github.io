@@ -1,0 +1,62 @@
+---
+title: "Teaching"
+description: |
+  Here's an overview of my teaching experience.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Guest Lectures
+
+#### Doing Research in Natural Language Processing  *(2024-25; 2023-24)*
+
+  - Topic: Online data collection methods for NLP and behavioral research
+  - Course Organiser: Dr [Frank Keller](https://homepages.inf.ed.ac.uk/keller/)
+
+#### Seminar in Cognitive Modelling  *(2024-25)*  
+
+  - Topic: Modelling language processing with MINERVA2
+  - Course Organiser: Dr Maithilee Kunda
+
+# Teaching Support
+
+### Teaching Assistant
+
+#### Case Studies in AI Ethics *(2024-25)*  
+  
+- Course Organiser: Dr [Nadin Kokciyan](https://edi-chai-lab.github.io/chai-lab-site/team/nadin-kokciyan/)
+- Planned, created, and facilitated weekly discussions on the ethical implications of AI technologies
+- Created a tutorial on AI and authenticity
+- Assisted with the preparation of course materials and exam questions
+- Provided feedback on group assignments and led a workshop on academic writing
+
+#### Seminar in Cognitive Modelling *(2024-25)*  
+
+- Course Organiser: Dr Maithilee Kunda
+- Assisted with course planning
+- Provided weekly feedback on student portfolios
+
+#### Informatics 1 - Cognitive Science *(2022-23)*
+
+- Course Organiser: Dr [Frank Mollica](https://mollicaf.github.io/)
+- Assisted with the preparation of tutorial materials in Python
+
+### Tutoring
+
+#### Computational Cognitive Science *(2024-25)*
+
+- Course Organiser: Dr [Chris Lucas](https://lucaslab-uoe.github.io/members/chris/)
+- Ran 8 tutorial sessions on computational modelling in R
+
+### Marking
+
+#### Seminar in Cognitive Modelling
+
+- Course Organisers: Dr Maithilee Kunda *(2024-25)*
+- Course Organisers: Dr [Neil Bramley](https://edwebprofiles.ed.ac.uk/profile/bramley) *(2023-24)*
+
+#### Informatics 1 - Cognitive Science *(2023-24)*
+
+- Course Organiser: Dr Matthias Hennig
